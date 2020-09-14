@@ -1,0 +1,11 @@
+body {font-family: trebuchet ms;
+}
+.info{height:auto; width:40%; padding-top: 50px ; padding-left: 5%; padding-right: 20%; font-size:17px; background-color: #ded2c5; opacity: 0.9;
+ margin-left:15%; margin-right: 20%; margin-bottom: 150px; padding-bottom:40px; margin-top: 150px;
+}
+#ex {padding: 5%; background-color:#71b6d1;opacity:1;
+}
+.pic {width:100%; 
+}
+#m {padding:5%; text-align:center; width:60%;
+}
