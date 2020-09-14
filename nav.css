@@ -1,0 +1,29 @@
+body {margin:0px;
+}
+.all {font-family: Trebuchet MS; border-collapse:collapse; color:black; background-color: white;
+}
+.bar {top: 150px;
+}
+.top {width: 100%; height:150px; position: fixed; top: 0px; z-index:3;  
+}
+.bar {position: fixed; background-color: #71b6d1	; height:150px; width: 100%; z-index:3;
+}
+.logo{position: fixed; left:16px; top:156px; height:128px; filter: saturate(75%); display:block; padding:4px;
+	font-weight: bold; font-size:23px;
+}
+.logotxt {margin: 4px; color:#ff936b; float:right; font-family:Arial; margin-left: 10px;
+}
+.logotxttwo {margin: 4px; color:#ff936b; font-family:Arial; position: fixed; right: 21px; bottom: 50px;
+}
+.logoimg{ float: left; height:130px ; width:20px ; position:relative ;
+}
+.logoimg:hover { filter: invert(1); transition: 0.3s;
+}
+.navbox{position:fixed; right:60px; top:195px; width: ;height: ;
+}
+.nav{background-color:#ff936b;  padding:17px; width:; text-align:center; display:inline-block; margin:0px; text-decoration: none;font-weight: bold; color: black;font-size:23px; 
+		padding-right:20px; padding-left:20px;
+}
+.nav:hover{opacity: 0.6;  transition: 0.3s;
+}
+.space{height: 300px;
